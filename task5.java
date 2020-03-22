@@ -1,5 +1,5 @@
 class Stack {
-    private int mSize; //mSize - максимальный размер
+    private int mSize; 
     private int[] stackArray;
     private int top;
 
